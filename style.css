@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*------------header--------*/
+.header{
+    height: 300px;
+    background-color: #9a9a9a;
+    width: auto;
+
+}
+.hleft{
+    float: left;
+    width: 40%;
+}
+.hright{
+    height:300px;
+    width: 60%;
+}
+/*-----------------------*/
+
+/*----Ul and list elements inside header---*/
+.h-ul{
+    list-style: none;
+    float: left;
+}
+.h-list{
+    float: left;
+}
+/*---------------------------*/
