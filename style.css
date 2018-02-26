@@ -10,13 +10,15 @@ body{
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 300;
     font-size: 20px;
+    width: auto;
+    height: auto;
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
 }
 /*------------header--------*/
 .header{
     height: 100px;
-    background-color: #9a9a9a;
+    background-color: #1d1a1a;
     width: auto;
     padding-top: 50px;  
 }
@@ -50,4 +52,29 @@ body{
 }
 
 /*---------------------------*/
+.welcome{
+    width: auto;
+    height: 400px;
+    background-color:rgb(223, 219, 223);
+    padding-top: 20px;
+    border: 1px solid black;
+
+}
+.about{
+    background-color: rgb(223, 219, 223);
+    height: 400px;
+    width:auto;
+    border: 1px solid black;
+}
+.contact-me{
+    background-color:rgb(223, 219, 223);
+    height: 400px;
+    width: auto;
+    border: 1px solid black;
+}
+.social{
+    height: 250px;
+    background-color: black;
+    color: #fff;
+}
 
